@@ -1,6 +1,6 @@
 {
   "name": "agi-middleware",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "connect middleware architecture for AGI (Asterisk Gateway Interface)",
   "main": "index.js",
   "scripts": {
