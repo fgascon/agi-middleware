@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/fgascon/agi-middleware",
   "dependencies": {
-    "fastagi": "^1.0.0",
+    "fastagi": "^1.1.0",
     "parseurl": "^1.3.0",
     "utils-merge": "^1.0.0"
   }
